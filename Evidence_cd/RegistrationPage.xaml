@@ -1,0 +1,20 @@
+﻿<Page x:Class="Evidence_cd.RegistrationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Evidence_cd"
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="300"
+      Title="RegistrationPage">
+
+    <Grid VerticalAlignment="Center" Height="300" Margin="0,24,0,10">
+        <Label x:Name="label" Content="Registration" HorizontalAlignment="Center" Margin="108,46,77,0" VerticalAlignment="Top" Width="115" FontSize="15"/>
+        <TextBox x:Name="inputName" HorizontalAlignment="Center" Height="23" Margin="108,89,92,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.464,-0.1"/>
+        <TextBox x:Name="inputPassword" HorizontalAlignment="Center" Height="23" Margin="108,125,92,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="buttonRegister" Content="Register" HorizontalAlignment="Center" Margin="108,161,92,0" VerticalAlignment="Top" Width="100" Height="24" Click="buttonRegister_Click"/>
+        <TextBlock x:Name="echo" HorizontalAlignment="Center" Margin="81,216,57,0" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Width="162" Height="29" FontSize="12"/>
+        <Button x:Name="buttonLogin" Content="Login" HorizontalAlignment="Center" Margin="108,192,92,0" VerticalAlignment="Top" Width="100" Height="24" Click="buttonLogin_Click"/>
+
+    </Grid>
+</Page>

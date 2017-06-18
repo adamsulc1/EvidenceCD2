@@ -1,0 +1,168 @@
+c:\users\adam\documents\visual studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\App.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_Content.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.lref
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\SQLite-net.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\bin\Debug\SQLite-net.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\MainWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.g.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\AddWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\AddWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\UpdateWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\obj\Debug\UpdateWindow.baml
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.exe.config
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.exe
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.pdb
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\x86\e_sqlite3.dll
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\x64\e_sqlite3.dll
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.exe
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.pdb
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLite-net.dll
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.core.dll
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLite-net.xml
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.csprojResolveAssemblyReference.cache
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\AddWindow.g.cs
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\MainWindow.g.cs
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\UpdateWindow.g.cs
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\App.g.cs
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_Content.g.cs
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.cache
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.lref
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\AddWindow.baml
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\MainWindow.baml
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\UpdateWindow.baml
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.g.resources
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.Properties.Resources.resources
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.csproj.GenerateResource.Cache
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\StartPage.g.cs
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\StartWindow.g.cs
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\StartPage.baml
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\StartWindow.baml
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\RegistrationPage.g.cs
+D:\sulcad14\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\RegistrationPage.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\Evidence_cd.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLite-net.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\bin\Debug\SQLite-net.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\AddWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\RegistrationPage.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\StartPage.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\StartWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\UpdateWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\App.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_Content.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.lref
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\AddWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\MainWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\RegistrationPage.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\StartPage.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\StartWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\UpdateWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.g.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Evidence_cd\Evidence_cd\Evidence_cd\Evidence_cd\obj\Debug\Evidence_cd.csproj.GenerateResource.Cache
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\x86\e_sqlite3.dll
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\x64\e_sqlite3.dll
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\Evidence_cd.exe.config
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\Evidence_cd.exe
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\Evidence_cd.pdb
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLite-net.dll
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLitePCLRaw.core.dll
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLite-net.xml
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.csprojResolveAssemblyReference.cache
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\AddWindow.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\MainWindow.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\RegistrationPage.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\StartPage.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\StartWindow.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\UpdateWindow.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\App.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd_Content.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.cache
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.lref
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\AddWindow.baml
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\MainWindow.baml
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\RegistrationPage.baml
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\StartPage.baml
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\StartWindow.baml
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\UpdateWindow.baml
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.g.resources
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.Properties.Resources.resources
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.csproj.GenerateResource.Cache
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.exe
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.pdb
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\LoginPage.g.cs
+D:\sulcad14\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\LoginPage.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\Evidence_cd.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\Evidence_cd.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\Evidence_cd.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLite-net.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\bin\Debug\SQLite-net.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\AddWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\LoginPage.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\RegistrationPage.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\StartPage.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\StartWindow.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\App.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd_Content.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd_MarkupCompile.lref
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\AddWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\LoginPage.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\MainWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\RegistrationPage.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\StartPage.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\StartWindow.baml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.g.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Evidence_cd.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Buy.g.cs
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\EvidenceCD-master\EvidenceCD-master\EvidenceCD-master\Evidence_cd\obj\Debug\Buy.baml
